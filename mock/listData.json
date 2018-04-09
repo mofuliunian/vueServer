@@ -1,0 +1,5769 @@
+[
+  {
+    "description": "大家喜欢吃，才叫真好吃。",
+    "is_selected": true,
+    "icon_url": "06a05b267f338acfeb8bd682d16e836dpng",
+    "name": "热销",
+    "grey_icon_url": "aba732b4ca103b2521c872442d7e5d4epng",
+    "foods": [
+      {
+        "rating": 4.18,
+        "is_featured": 1,
+        "virtual_food_id": 724917022,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "dafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 1517,
+        "rating_count": 262,
+        "tips": "262评价 月售1517份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329092694021",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 254,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 96,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377631275013",
+            "name": "大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724917022,
+            "pinyin_name": "dafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759053980,
+            "packing_fee": 2,
+            "recent_rating": 4.18,
+            "promotion_stock": 7591,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 1517,
+            "is_essential": false,
+            "item_id": "329092694021",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 7594
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724917022,
+            "pinyin_name": "dafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.18,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329092694021",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213667
+      },
+      {
+        "rating": 4.16,
+        "is_featured": 1,
+        "virtual_food_id": 730935760,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+油麦菜+小咸菜",
+        "month_sales": 934,
+        "rating_count": 184,
+        "tips": "184评价 月售934份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡+米饭+小咸菜",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "335255881733",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡+米饭+小咸菜",
+        "satisfy_count": 176,
+        "activity": {
+          "fixed_price": 9.9,
+          "image_text_color": null,
+          "sum_condition": null,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": null,
+          "applicable_quantity_text": "限量抢购",
+          "description": null,
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 286075354,
+          "benefit_text": "",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 1.0,
+          "icon_name": null,
+          "must_super_vip": false,
+          "name": null,
+          "image_text": "",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "『限量抢购』每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": true
+        },
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": 29.9,
+            "sku_id": "384541829125",
+            "name": "黄焖鸡+米饭+小咸菜",
+            "weight": 0,
+            "virtual_food_id": 730935760,
+            "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+            "restaurant_id": 161299380,
+            "food_id": 765802568,
+            "packing_fee": 2,
+            "recent_rating": 4.16,
+            "promotion_stock": 20,
+            "price": 9.9,
+            "sold_out": false,
+            "recent_popularity": 934,
+            "is_essential": false,
+            "item_id": "335255881733",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡+米饭+小咸菜"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 8928
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡+米饭+小咸菜",
+            "weight": 0,
+            "virtual_food_id": 730935760,
+            "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.16,
+            "promotion_stock": -1,
+            "price": 29.9,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "335255881733",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      },
+      {
+        "rating": 4.14,
+        "is_featured": 1,
+        "virtual_food_id": 724908408,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+jinzhengu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+金针菇+油麦菜",
+        "month_sales": 593,
+        "rating_count": 98,
+        "tips": "98评价 月售593份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+金针菇+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329083873285",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+金针菇+米饭套餐",
+        "satisfy_count": 96,
+        "activity": null,
+        "satisfy_rate": 97,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377645792261",
+            "name": "黄焖鸡大份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724908408,
+            "pinyin_name": "huangmenjidafen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759068157,
+            "packing_fee": 2,
+            "recent_rating": 4.14,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 593,
+            "is_essential": false,
+            "item_id": "329083873285",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+金针菇+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9019
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724908408,
+            "pinyin_name": "huangmenjidafen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.14,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329083873285",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.1,
+        "is_featured": 0,
+        "virtual_food_id": 724903791,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质鸡上腿肉+长粒香米+油麦菜",
+        "month_sales": 422,
+        "rating_count": 111,
+        "tips": "111评价 月售422份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329079145477",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+米饭",
+        "satisfy_count": 106,
+        "activity": null,
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377641400325",
+            "name": "黄焖鸡大份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724903791,
+            "pinyin_name": "huangmenjidafen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759063868,
+            "packing_fee": 2,
+            "recent_rating": 4.1,
+            "promotion_stock": -1,
+            "price": 33.3,
+            "sold_out": false,
+            "recent_popularity": 422,
+            "is_essential": false,
+            "item_id": "329079145477",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9372
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724903791,
+            "pinyin_name": "huangmenjidafen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.1,
+            "promotion_stock": -1,
+            "price": 33.3,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329079145477",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      },
+      {
+        "rating": 4.17,
+        "is_featured": 0,
+        "virtual_food_id": 724904662,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "tudou",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 400,
+        "rating_count": 76,
+        "tips": "76评价 月售400份",
+        "image_path": "b8488aa34396ca91bd45fa9bd40c1e65jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329080037381",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "土豆",
+        "satisfy_count": 74,
+        "activity": null,
+        "satisfy_rate": 97,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377667995653",
+            "name": "土豆",
+            "weight": 0,
+            "virtual_food_id": 724904662,
+            "pinyin_name": "tudou",
+            "restaurant_id": 161299380,
+            "food_id": 759089840,
+            "packing_fee": 0,
+            "recent_rating": 4.17,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 400,
+            "is_essential": false,
+            "item_id": "329080037381",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9388
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.09,
+        "is_featured": 0,
+        "virtual_food_id": 724913633,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "yudoufu",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 381,
+        "rating_count": 64,
+        "tips": "64评价 月售381份",
+        "image_path": "74aa6f28200c22de86c30066a99ad313jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329089223685",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "鱼豆腐",
+        "satisfy_count": 62,
+        "activity": null,
+        "satisfy_rate": 96,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677865989",
+            "name": "鱼豆腐",
+            "weight": 0,
+            "virtual_food_id": 724913633,
+            "pinyin_name": "yudoufu",
+            "restaurant_id": 161299380,
+            "food_id": 759099479,
+            "packing_fee": 0,
+            "recent_rating": 4.09,
+            "promotion_stock": -1,
+            "price": 4,
+            "sold_out": false,
+            "recent_popularity": 381,
+            "is_essential": false,
+            "item_id": "329089223685",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9389
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.11,
+        "is_featured": 0,
+        "virtual_food_id": 724926891,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "doupi",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 298,
+        "rating_count": 46,
+        "tips": "46评价 月售298份",
+        "image_path": "2744ba5bcd45b8b1e776454f60ea61e3jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329102799877",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "豆皮",
+        "satisfy_count": 46,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377663858693",
+            "name": "豆皮",
+            "weight": 0,
+            "virtual_food_id": 724926891,
+            "pinyin_name": "doupi",
+            "restaurant_id": 161299380,
+            "food_id": 759085800,
+            "packing_fee": 0,
+            "recent_rating": 4.11,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 298,
+            "is_essential": false,
+            "item_id": "329102799877",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9546
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.22,
+        "is_featured": 0,
+        "virtual_food_id": 724913626,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": " jinzhengu",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 279,
+        "rating_count": 45,
+        "tips": "45评价 月售279份",
+        "image_path": "ff134c245e1fe05a34bf1c7dd5220f2fjpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329089216517",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": " 金针菇",
+        "satisfy_count": 44,
+        "activity": null,
+        "satisfy_rate": 97,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677856773",
+            "name": " 金针菇",
+            "weight": 0,
+            "virtual_food_id": 724913626,
+            "pinyin_name": " jinzhengu",
+            "restaurant_id": 161299380,
+            "food_id": 759099470,
+            "packing_fee": 0,
+            "recent_rating": 4.22,
+            "promotion_stock": -1,
+            "price": 4,
+            "sold_out": false,
+            "recent_popularity": 279,
+            "is_essential": false,
+            "item_id": "329089216517",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9581
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.14,
+        "is_featured": 0,
+        "virtual_food_id": 724904674,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "xiaoyoucai",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 242,
+        "rating_count": 44,
+        "tips": "44评价 月售242份",
+        "image_path": "48b86a21dd1db28e3ad232998f251aa0jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329080049669",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "小油菜",
+        "satisfy_count": 42,
+        "activity": null,
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377668008965",
+            "name": "小油菜",
+            "weight": 0,
+            "virtual_food_id": 724904674,
+            "pinyin_name": "xiaoyoucai",
+            "restaurant_id": 161299380,
+            "food_id": 759089853,
+            "packing_fee": 0,
+            "recent_rating": 4.14,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 242,
+            "is_essential": false,
+            "item_id": "329080049669",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9609
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.24,
+        "is_featured": 1,
+        "virtual_food_id": 724899769,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+鱼豆腐+油麦菜",
+        "month_sales": 180,
+        "rating_count": 67,
+        "tips": "67评价 月售180份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+鱼豆腐+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329075026949",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+        "satisfy_count": 67,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377655058437",
+            "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899769,
+            "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077206,
+            "packing_fee": 2,
+            "recent_rating": 4.24,
+            "promotion_stock": 40,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 180,
+            "is_essential": false,
+            "item_id": "329075026949",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+鱼豆腐+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9698
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899769,
+            "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.24,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075026949",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      }
+    ],
+    "activity": null,
+    "type": 2,
+    "id": -1,
+    "is_activity": null
+  },
+  {
+    "description": "美味又实惠, 大家快来抢!",
+    "is_selected": false,
+    "icon_url": "b918cf4f67e0e8223931cd595dc932fepng",
+    "name": "优惠",
+    "grey_icon_url": "f8ddec5b7355581faa2bf4e24942dcc2png",
+    "foods": [
+      {
+        "rating": 4.16,
+        "is_featured": 1,
+        "virtual_food_id": 730935760,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+油麦菜+小咸菜",
+        "month_sales": 934,
+        "rating_count": 184,
+        "tips": "184评价 月售934份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡+米饭+小咸菜",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "335255881733",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡+米饭+小咸菜",
+        "satisfy_count": 176,
+        "activity": {
+          "fixed_price": 9.9,
+          "image_text_color": null,
+          "sum_condition": null,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": null,
+          "applicable_quantity_text": "限量抢购",
+          "description": null,
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 286075354,
+          "benefit_text": "",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 1.0,
+          "icon_name": null,
+          "must_super_vip": false,
+          "name": null,
+          "image_text": "",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "『限量抢购』每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": true
+        },
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": 29.9,
+            "sku_id": "384541829125",
+            "name": "黄焖鸡+米饭+小咸菜",
+            "weight": 0,
+            "virtual_food_id": 730935760,
+            "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+            "restaurant_id": 161299380,
+            "food_id": 765802568,
+            "packing_fee": 2,
+            "recent_rating": 4.16,
+            "promotion_stock": 20,
+            "price": 9.9,
+            "sold_out": false,
+            "recent_popularity": 934,
+            "is_essential": false,
+            "item_id": "335255881733",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡+米饭+小咸菜"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 8928
+          },
+          {
+            "original_price": 29.9,
+            "sku_id": "-10000",
+            "name": "黄焖鸡+米饭+小咸菜",
+            "weight": 0,
+            "virtual_food_id": 730935760,
+            "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.16,
+            "promotion_stock": -1,
+            "price": 9.9,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "335255881733",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      },
+      {
+        "rating": 4.25,
+        "is_featured": 1,
+        "virtual_food_id": 724926716,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "buladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 37,
+        "rating_count": 12,
+        "tips": "12评价 月售37份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "不辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329102620677",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "不辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 12,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377663666181",
+            "name": "不辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926716,
+            "pinyin_name": "buladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759085612,
+            "packing_fee": 2,
+            "recent_rating": 4.25,
+            "promotion_stock": 9925,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 37,
+            "is_essential": false,
+            "item_id": "329102620677",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "不辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9926
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "不辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926716,
+            "pinyin_name": "buladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.25,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102620677",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 3.6,
+        "is_featured": 1,
+        "virtual_food_id": 724904490,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "weiladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 42,
+        "rating_count": 5,
+        "tips": "5评价 月售42份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "微辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329079861253",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "微辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 3,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 60,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377667806213",
+            "name": "微辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724904490,
+            "pinyin_name": "weiladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759089655,
+            "packing_fee": 2,
+            "recent_rating": 3.6,
+            "promotion_stock": 9899,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 42,
+            "is_essential": false,
+            "item_id": "329079861253",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "微辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9899
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "微辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724904490,
+            "pinyin_name": "weiladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 3.6,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329079861253",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 5.0,
+        "is_featured": 1,
+        "virtual_food_id": 724908814,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "zhongladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 21,
+        "rating_count": 1,
+        "tips": "1评价 月售21份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "中辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329084289029",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "中辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 1,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377646251013",
+            "name": "中辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724908814,
+            "pinyin_name": "zhongladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759068605,
+            "packing_fee": 2,
+            "recent_rating": 5.0,
+            "promotion_stock": 9955,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 21,
+            "is_essential": false,
+            "item_id": "329084289029",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "中辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9956
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "中辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724908814,
+            "pinyin_name": "zhongladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329084289029",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 4.33,
+        "is_featured": 1,
+        "virtual_food_id": 724922919,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "teladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 29,
+        "rating_count": 3,
+        "tips": "3评价 月售29份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "特辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329098732549",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "特辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 3,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377659795461",
+            "name": "特辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724922919,
+            "pinyin_name": "teladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759081832,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": 9958,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 29,
+            "is_essential": false,
+            "item_id": "329098732549",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "特辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9959
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "特辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724922919,
+            "pinyin_name": "teladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329098732549",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 4.35,
+        "is_featured": 0,
+        "virtual_food_id": 724926155,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质鸡上腿肉+长粒香米",
+        "month_sales": 125,
+        "rating_count": 17,
+        "tips": "17评价 月售125份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329102046213",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+米饭",
+        "satisfy_count": 17,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 29.9,
+            "sku_id": "377663022085",
+            "name": "黄焖鸡小份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926155,
+            "pinyin_name": "huangmenjixiaofen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759084983,
+            "packing_fee": 2,
+            "recent_rating": 4.35,
+            "promotion_stock": 9788,
+            "price": 14.95,
+            "sold_out": false,
+            "recent_popularity": 125,
+            "is_essential": false,
+            "item_id": "329102046213",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9789
+          },
+          {
+            "original_price": 29.9,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926155,
+            "pinyin_name": "huangmenjixiaofen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.35,
+            "promotion_stock": -1,
+            "price": 14.95,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102046213",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      },
+      {
+        "rating": 4.18,
+        "is_featured": 1,
+        "virtual_food_id": 724917022,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "dafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 1517,
+        "rating_count": 262,
+        "tips": "262评价 月售1517份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329092694021",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 254,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 96,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377631275013",
+            "name": "大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724917022,
+            "pinyin_name": "dafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759053980,
+            "packing_fee": 2,
+            "recent_rating": 4.18,
+            "promotion_stock": 7591,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 1517,
+            "is_essential": false,
+            "item_id": "329092694021",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 7594
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724917022,
+            "pinyin_name": "dafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.18,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329092694021",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213667
+      },
+      {
+        "rating": 4.33,
+        "is_featured": 1,
+        "virtual_food_id": 724926257,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "xiaofenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 67,
+        "rating_count": 9,
+        "tips": "9评价 月售67份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329102150661",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "小份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 9,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 33,
+            "sku_id": "377663136773",
+            "name": "小份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926257,
+            "pinyin_name": "xiaofenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759085095,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": 9897,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 67,
+            "is_essential": false,
+            "item_id": "329102150661",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9897
+          },
+          {
+            "original_price": 33,
+            "sku_id": "-10000",
+            "name": "小份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926257,
+            "pinyin_name": "xiaofenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": -1,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102150661",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213667
+      },
+      {
+        "rating": 4.27,
+        "is_featured": 0,
+        "virtual_food_id": 724899744,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+doupi+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+土豆+油麦菜",
+        "month_sales": 67,
+        "rating_count": 11,
+        "tips": "11评价 月售67份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+豆皮+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329075001349",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+豆皮+米饭套餐",
+        "satisfy_count": 11,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377655030789",
+            "name": "黄焖鸡大份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899744,
+            "pinyin_name": "huangmenjidafen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077179,
+            "packing_fee": 2,
+            "recent_rating": 4.27,
+            "promotion_stock": 40,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 67,
+            "is_essential": false,
+            "item_id": "329075001349",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+豆皮+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9894
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899744,
+            "pinyin_name": "huangmenjidafen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.27,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075001349",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.24,
+        "is_featured": 1,
+        "virtual_food_id": 724899769,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+鱼豆腐+油麦菜",
+        "month_sales": 180,
+        "rating_count": 67,
+        "tips": "67评价 月售180份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+鱼豆腐+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329075026949",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+        "satisfy_count": 67,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377655058437",
+            "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899769,
+            "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077206,
+            "packing_fee": 2,
+            "recent_rating": 4.24,
+            "promotion_stock": 40,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 180,
+            "is_essential": false,
+            "item_id": "329075026949",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+鱼豆腐+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9698
+          },
+          {
+            "original_price": 35,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899769,
+            "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.24,
+            "promotion_stock": -1,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075026949",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 3.89,
+        "is_featured": 0,
+        "virtual_food_id": 724899826,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+doupi+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 31,
+        "rating_count": 9,
+        "tips": "9评价 月售31份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+豆皮+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329075085317",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+豆皮+米饭套餐",
+        "satisfy_count": 8,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 88,
+        "specfoods": [
+          {
+            "original_price": 33,
+            "sku_id": "377655121925",
+            "name": "黄焖鸡小份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899826,
+            "pinyin_name": "huangmenjixiaofen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077268,
+            "packing_fee": 2,
+            "recent_rating": 3.89,
+            "promotion_stock": 40,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 31,
+            "is_essential": false,
+            "item_id": "329075085317",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+豆皮+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9952
+          },
+          {
+            "original_price": 33,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899826,
+            "pinyin_name": "huangmenjixiaofen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 3.89,
+            "promotion_stock": -1,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075085317",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.36,
+        "is_featured": 0,
+        "virtual_food_id": 724899859,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+jinzhengu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+金针菇+油麦菜",
+        "month_sales": 51,
+        "rating_count": 11,
+        "tips": "11评价 月售51份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+金针菇+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329075119109",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+金针菇+米饭套餐",
+        "satisfy_count": 11,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 33,
+            "sku_id": "377655162885",
+            "name": "黄焖鸡小份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899859,
+            "pinyin_name": "huangmenjixiaofen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077308,
+            "packing_fee": 2,
+            "recent_rating": 4.36,
+            "promotion_stock": 9916,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 51,
+            "is_essential": false,
+            "item_id": "329075119109",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+金针菇+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9916
+          },
+          {
+            "original_price": 33,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899859,
+            "pinyin_name": "huangmenjixiaofen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.36,
+            "promotion_stock": -1,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075119109",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      }
+    ],
+    "activity": null,
+    "type": 3,
+    "id": -2,
+    "is_activity": null
+  },
+  {
+    "description": "大家喜欢吃，才叫真好吃",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "热销",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.25,
+        "is_featured": 1,
+        "virtual_food_id": 724926716,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "buladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 37,
+        "rating_count": 12,
+        "tips": "12评价 月售37份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "不辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329102620677",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "不辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 12,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377663666181",
+            "name": "不辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926716,
+            "pinyin_name": "buladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759085612,
+            "packing_fee": 2,
+            "recent_rating": 4.25,
+            "promotion_stock": 9925,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 37,
+            "is_essential": false,
+            "item_id": "329102620677",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "不辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9926
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "不辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926716,
+            "pinyin_name": "buladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.25,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102620677",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 3.6,
+        "is_featured": 1,
+        "virtual_food_id": 724904490,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "weiladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 42,
+        "rating_count": 5,
+        "tips": "5评价 月售42份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "微辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329079861253",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "微辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 3,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 60,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377667806213",
+            "name": "微辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724904490,
+            "pinyin_name": "weiladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759089655,
+            "packing_fee": 2,
+            "recent_rating": 3.6,
+            "promotion_stock": 9899,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 42,
+            "is_essential": false,
+            "item_id": "329079861253",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "微辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9899
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "微辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724904490,
+            "pinyin_name": "weiladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 3.6,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329079861253",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 5.0,
+        "is_featured": 1,
+        "virtual_food_id": 724908814,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "zhongladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 21,
+        "rating_count": 1,
+        "tips": "1评价 月售21份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "中辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329084289029",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "中辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 1,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377646251013",
+            "name": "中辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724908814,
+            "pinyin_name": "zhongladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759068605,
+            "packing_fee": 2,
+            "recent_rating": 5.0,
+            "promotion_stock": 9955,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 21,
+            "is_essential": false,
+            "item_id": "329084289029",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "中辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9956
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "中辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724908814,
+            "pinyin_name": "zhongladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329084289029",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      },
+      {
+        "rating": 4.33,
+        "is_featured": 1,
+        "virtual_food_id": 724922919,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "teladafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 29,
+        "rating_count": 3,
+        "tips": "3评价 月售29份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "特辣大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329098732549",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "特辣大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 3,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377659795461",
+            "name": "特辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724922919,
+            "pinyin_name": "teladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759081832,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": 9958,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 29,
+            "is_essential": false,
+            "item_id": "329098732549",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "特辣大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9959
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "特辣大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724922919,
+            "pinyin_name": "teladafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329098732549",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532095626
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532095626,
+    "is_activity": false
+  },
+  {
+    "description": "黄焖鸡米饭",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "黄焖鸡米饭",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.1,
+        "is_featured": 0,
+        "virtual_food_id": 724903791,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质鸡上腿肉+长粒香米+油麦菜",
+        "month_sales": 422,
+        "rating_count": 111,
+        "tips": "111评价 月售422份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329079145477",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+米饭",
+        "satisfy_count": 106,
+        "activity": null,
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377641400325",
+            "name": "黄焖鸡大份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724903791,
+            "pinyin_name": "huangmenjidafen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759063868,
+            "packing_fee": 2,
+            "recent_rating": 4.1,
+            "promotion_stock": -1,
+            "price": 33.3,
+            "sold_out": false,
+            "recent_popularity": 422,
+            "is_essential": false,
+            "item_id": "329079145477",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9372
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724903791,
+            "pinyin_name": "huangmenjidafen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.1,
+            "promotion_stock": -1,
+            "price": 33.3,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329079145477",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      },
+      {
+        "rating": 4.35,
+        "is_featured": 0,
+        "virtual_food_id": 724926155,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质鸡上腿肉+长粒香米",
+        "month_sales": 125,
+        "rating_count": 17,
+        "tips": "17评价 月售125份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329102046213",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+米饭",
+        "satisfy_count": 17,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 29.9,
+            "sku_id": "377663022085",
+            "name": "黄焖鸡小份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926155,
+            "pinyin_name": "huangmenjixiaofen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759084983,
+            "packing_fee": 2,
+            "recent_rating": 4.35,
+            "promotion_stock": 9788,
+            "price": 14.95,
+            "sold_out": false,
+            "recent_popularity": 125,
+            "is_essential": false,
+            "item_id": "329102046213",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9789
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926155,
+            "pinyin_name": "huangmenjixiaofen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.35,
+            "promotion_stock": -1,
+            "price": 29.9,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102046213",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      },
+      {
+        "rating": 4.16,
+        "is_featured": 1,
+        "virtual_food_id": 730935760,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+油麦菜+小咸菜",
+        "month_sales": 934,
+        "rating_count": 184,
+        "tips": "184评价 月售934份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡+米饭+小咸菜",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "335255881733",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡+米饭+小咸菜",
+        "satisfy_count": 176,
+        "activity": {
+          "fixed_price": 9.9,
+          "image_text_color": null,
+          "sum_condition": null,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": null,
+          "applicable_quantity_text": "限量抢购",
+          "description": null,
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 286075354,
+          "benefit_text": "",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 1.0,
+          "icon_name": null,
+          "must_super_vip": false,
+          "name": null,
+          "image_text": "",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "『限量抢购』每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": true
+        },
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": 29.9,
+            "sku_id": "384541829125",
+            "name": "黄焖鸡+米饭+小咸菜",
+            "weight": 0,
+            "virtual_food_id": 730935760,
+            "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+            "restaurant_id": 161299380,
+            "food_id": 765802568,
+            "packing_fee": 2,
+            "recent_rating": 4.16,
+            "promotion_stock": 20,
+            "price": 9.9,
+            "sold_out": false,
+            "recent_popularity": 934,
+            "is_essential": false,
+            "item_id": "335255881733",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡+米饭+小咸菜"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 8928
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡+米饭+小咸菜",
+            "weight": 0,
+            "virtual_food_id": 730935760,
+            "pinyin_name": "huangmenji+mifan+xiaoxiancai",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.16,
+            "promotion_stock": -1,
+            "price": 29.9,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "335255881733",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213658
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532213658,
+    "is_activity": false
+  },
+  {
+    "description": "黄焖排骨",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "黄焖排骨",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.17,
+        "is_featured": 0,
+        "virtual_food_id": 724913041,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenpaigudafen+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+油麦菜",
+        "month_sales": 163,
+        "rating_count": 30,
+        "tips": "30评价 月售163份",
+        "image_path": "2d3c9da32a695246c1a2565bae388349jpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖排骨大份+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329088617477",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖排骨大份+米饭",
+        "satisfy_count": 30,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377636256773",
+            "name": "黄焖排骨大份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724913041,
+            "pinyin_name": "huangmenpaigudafen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759058845,
+            "packing_fee": 2,
+            "recent_rating": 4.17,
+            "promotion_stock": -1,
+            "price": 40,
+            "sold_out": false,
+            "recent_popularity": 163,
+            "is_essential": false,
+            "item_id": "329088617477",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖排骨大份+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9763
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖排骨大份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724913041,
+            "pinyin_name": "huangmenpaigudafen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.17,
+            "promotion_stock": -1,
+            "price": 40,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329088617477",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532199030
+      },
+      {
+        "rating": 5.0,
+        "is_featured": 0,
+        "virtual_food_id": 724922209,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenpaiguxiaofen+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "上等猪小排+优质长粒香米+油麦菜",
+        "month_sales": 44,
+        "rating_count": 4,
+        "tips": "4评价 月售44份",
+        "image_path": "2d3c9da32a695246c1a2565bae388349jpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖排骨小份+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329098005509",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖排骨小份+米饭",
+        "satisfy_count": 4,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377658981381",
+            "name": "黄焖排骨小份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724922209,
+            "pinyin_name": "huangmenpaiguxiaofen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759081037,
+            "packing_fee": 2,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 38,
+            "sold_out": false,
+            "recent_popularity": 44,
+            "is_essential": false,
+            "item_id": "329098005509",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖排骨小份+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9926
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖排骨小份+米饭",
+            "weight": 0,
+            "virtual_food_id": 724922209,
+            "pinyin_name": "huangmenpaiguxiaofen+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 5.0,
+            "promotion_stock": -1,
+            "price": 38,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329098005509",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532199030
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532199030,
+    "is_activity": false
+  },
+  {
+    "description": "金牌商务套餐",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "金牌商务套餐",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.18,
+        "is_featured": 1,
+        "virtual_food_id": 724917022,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "dafenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 1517,
+        "rating_count": 262,
+        "tips": "262评价 月售1517份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "大份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329092694021",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "大份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 254,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 96,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377631275013",
+            "name": "大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724917022,
+            "pinyin_name": "dafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759053980,
+            "packing_fee": 2,
+            "recent_rating": 4.18,
+            "promotion_stock": 7591,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 1517,
+            "is_essential": false,
+            "item_id": "329092694021",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "大份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 7594
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "大份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724917022,
+            "pinyin_name": "dafenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.18,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329092694021",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213667
+      },
+      {
+        "rating": 4.33,
+        "is_featured": 1,
+        "virtual_food_id": 724926257,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "xiaofenhuangmenji+doupi+mifan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 67,
+        "rating_count": 9,
+        "tips": "9评价 月售67份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "小份黄焖鸡+豆皮+米饭",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329102150661",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "小份黄焖鸡+豆皮+米饭",
+        "satisfy_count": 9,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 33,
+            "sku_id": "377663136773",
+            "name": "小份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926257,
+            "pinyin_name": "xiaofenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759085095,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": 9897,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 67,
+            "is_essential": false,
+            "item_id": "329102150661",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "小份黄焖鸡+豆皮+米饭"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9897
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "小份黄焖鸡+豆皮+米饭",
+            "weight": 0,
+            "virtual_food_id": 724926257,
+            "pinyin_name": "xiaofenhuangmenji+doupi+mifan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.33,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102150661",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213667
+      },
+      {
+        "rating": 4.13,
+        "is_featured": 1,
+        "virtual_food_id": 724926818,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+doupi+kele+xiaoxiancai+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+可乐+油麦菜+小咸菜",
+        "month_sales": 91,
+        "rating_count": 15,
+        "tips": "15评价 月售91份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+豆皮+可乐+小咸菜+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329102725125",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+豆皮+可乐+小咸菜+米饭套餐",
+        "satisfy_count": 13,
+        "activity": null,
+        "satisfy_rate": 86,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377663774725",
+            "name": "黄焖鸡大份+豆皮+可乐+小咸菜+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724926818,
+            "pinyin_name": "huangmenjidafen+doupi+kele+xiaoxiancai+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759085718,
+            "packing_fee": 2,
+            "recent_rating": 4.13,
+            "promotion_stock": -1,
+            "price": 38.8,
+            "sold_out": false,
+            "recent_popularity": 91,
+            "is_essential": false,
+            "item_id": "329102725125",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+豆皮+可乐+小咸菜+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9883
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+豆皮+可乐+小咸菜+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724926818,
+            "pinyin_name": "huangmenjidafen+doupi+kele+xiaoxiancai+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.13,
+            "promotion_stock": -1,
+            "price": 38.8,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102725125",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213667
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532213667,
+    "is_activity": false
+  },
+  {
+    "description": "黄焖鸡米饭套餐",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "黄焖鸡米饭套餐",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.14,
+        "is_featured": 1,
+        "virtual_food_id": 724908408,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+jinzhengu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+金针菇+油麦菜",
+        "month_sales": 593,
+        "rating_count": 98,
+        "tips": "98评价 月售593份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+金针菇+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329083873285",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+金针菇+米饭套餐",
+        "satisfy_count": 96,
+        "activity": null,
+        "satisfy_rate": 97,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377645792261",
+            "name": "黄焖鸡大份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724908408,
+            "pinyin_name": "huangmenjidafen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759068157,
+            "packing_fee": 2,
+            "recent_rating": 4.14,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 593,
+            "is_essential": false,
+            "item_id": "329083873285",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+金针菇+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9019
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724908408,
+            "pinyin_name": "huangmenjidafen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.14,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329083873285",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.19,
+        "is_featured": 0,
+        "virtual_food_id": 724904028,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+tudou+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+土豆+油麦菜",
+        "month_sales": 109,
+        "rating_count": 26,
+        "tips": "26评价 月售109份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+土豆+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329079388165",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+土豆+米饭套餐",
+        "satisfy_count": 25,
+        "activity": null,
+        "satisfy_rate": 96,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377667256325",
+            "name": "黄焖鸡大份+土豆+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724904028,
+            "pinyin_name": "huangmenjidafen+tudou+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759089118,
+            "packing_fee": 2,
+            "recent_rating": 4.19,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 109,
+            "is_essential": false,
+            "item_id": "329079388165",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+土豆+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9838
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+土豆+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724904028,
+            "pinyin_name": "huangmenjidafen+tudou+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.19,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329079388165",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.27,
+        "is_featured": 0,
+        "virtual_food_id": 724899744,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+doupi+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+土豆+油麦菜",
+        "month_sales": 67,
+        "rating_count": 11,
+        "tips": "11评价 月售67份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+豆皮+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329075001349",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+豆皮+米饭套餐",
+        "satisfy_count": 11,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377655030789",
+            "name": "黄焖鸡大份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899744,
+            "pinyin_name": "huangmenjidafen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077179,
+            "packing_fee": 2,
+            "recent_rating": 4.27,
+            "promotion_stock": 40,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 67,
+            "is_essential": false,
+            "item_id": "329075001349",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+豆皮+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9894
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899744,
+            "pinyin_name": "huangmenjidafen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.27,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075001349",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.24,
+        "is_featured": 1,
+        "virtual_food_id": 724899769,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+鱼豆腐+油麦菜",
+        "month_sales": 180,
+        "rating_count": 67,
+        "tips": "67评价 月售180份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡大份+鱼豆腐+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329075026949",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+        "satisfy_count": 67,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 35,
+            "sku_id": "377655058437",
+            "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899769,
+            "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077206,
+            "packing_fee": 2,
+            "recent_rating": 4.24,
+            "promotion_stock": 40,
+            "price": 17.5,
+            "sold_out": false,
+            "recent_popularity": 180,
+            "is_essential": false,
+            "item_id": "329075026949",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡大份+鱼豆腐+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9698
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899769,
+            "pinyin_name": "huangmenjidafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.24,
+            "promotion_stock": -1,
+            "price": 35,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075026949",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.43,
+        "is_featured": 0,
+        "virtual_food_id": 724922410,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+tudou+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+土豆+油麦菜",
+        "month_sales": 45,
+        "rating_count": 7,
+        "tips": "7评价 月售45份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+土豆+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329098211333",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+土豆+米饭套餐",
+        "satisfy_count": 7,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377659205637",
+            "name": "黄焖鸡小份+土豆+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724922410,
+            "pinyin_name": "huangmenjixiaofen+tudou+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759081256,
+            "packing_fee": 2,
+            "recent_rating": 4.43,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 45,
+            "is_essential": false,
+            "item_id": "329098211333",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+土豆+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9935
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+土豆+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724922410,
+            "pinyin_name": "huangmenjixiaofen+tudou+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.43,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329098211333",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.45,
+        "is_featured": 0,
+        "virtual_food_id": 724908499,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+yudoufu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+鱼豆腐+油麦菜",
+        "month_sales": 48,
+        "rating_count": 11,
+        "tips": "11评价 月售48份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+鱼豆腐+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329083966469",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+鱼豆腐+米饭套餐",
+        "satisfy_count": 11,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377645889541",
+            "name": "黄焖鸡小份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724908499,
+            "pinyin_name": "huangmenjixiaofen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759068252,
+            "packing_fee": 2,
+            "recent_rating": 4.45,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 48,
+            "is_essential": false,
+            "item_id": "329083966469",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+鱼豆腐+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9932
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724908499,
+            "pinyin_name": "huangmenjixiaofen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.45,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329083966469",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 3.89,
+        "is_featured": 0,
+        "virtual_food_id": 724899826,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+doupi+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+豆皮+油麦菜",
+        "month_sales": 31,
+        "rating_count": 9,
+        "tips": "9评价 月售31份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+豆皮+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329075085317",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+豆皮+米饭套餐",
+        "satisfy_count": 8,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "★5折美食",
+          "max_quantity": 2,
+          "quantity_condition": 1,
+          "id": 295641930,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "折",
+          "must_super_vip": false,
+          "name": "★5折美食",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 88,
+        "specfoods": [
+          {
+            "original_price": 33,
+            "sku_id": "377655121925",
+            "name": "黄焖鸡小份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899826,
+            "pinyin_name": "huangmenjixiaofen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077268,
+            "packing_fee": 2,
+            "recent_rating": 3.89,
+            "promotion_stock": 40,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 31,
+            "is_essential": false,
+            "item_id": "329075085317",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+豆皮+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9952
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899826,
+            "pinyin_name": "huangmenjixiaofen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 3.89,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075085317",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      },
+      {
+        "rating": 4.36,
+        "is_featured": 0,
+        "virtual_food_id": 724899859,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenjixiaofen+jinzhengu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "优质长粒香米+鸡上腿肉+金针菇+油麦菜",
+        "month_sales": 51,
+        "rating_count": 11,
+        "tips": "11评价 月售51份",
+        "image_path": "21ea040e9fc7d22b684d6615e7d6272djpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖鸡小份+金针菇+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329075119109",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖鸡小份+金针菇+米饭套餐",
+        "satisfy_count": 11,
+        "activity": {
+          "fixed_price": -1.0,
+          "image_text_color": "f07373",
+          "sum_condition": 0,
+          "minimum_delivery_rule": 1,
+          "quantity_text": "",
+          "is_exclusive": 0,
+          "applicable_quantity_text": "每单限1份优惠",
+          "description": "天天有特价",
+          "max_quantity": 1,
+          "quantity_condition": 1,
+          "id": 317082882,
+          "benefit_text": "5折",
+          "applicable_quantity_text_color": "eb6551",
+          "icon_color": "eb6551",
+          "discount": 0.5,
+          "icon_name": "特",
+          "must_super_vip": false,
+          "name": "天天有特价",
+          "image_text": "5折，限1份",
+          "applicable_quantity": 1,
+          "is_promotion_toast_popup": true,
+          "activity_type": "",
+          "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+          "is_price_changed": false
+        },
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": 33,
+            "sku_id": "377655162885",
+            "name": "黄焖鸡小份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899859,
+            "pinyin_name": "huangmenjixiaofen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759077308,
+            "packing_fee": 2,
+            "recent_rating": 4.36,
+            "promotion_stock": 9916,
+            "price": 16.5,
+            "sold_out": false,
+            "recent_popularity": 51,
+            "is_essential": false,
+            "item_id": "329075119109",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖鸡小份+金针菇+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9916
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖鸡小份+金针菇+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724899859,
+            "pinyin_name": "huangmenjixiaofen+jinzhengu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.36,
+            "promotion_stock": -1,
+            "price": 33,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329075119109",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532218521
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532218521,
+    "is_activity": false
+  },
+  {
+    "description": "黄焖排骨米饭套餐",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "黄焖排骨米饭套餐",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.0,
+        "is_featured": 1,
+        "virtual_food_id": 724926485,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenpaigudafen+doupi+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "上等猪小排+优质长粒香米+豆皮+油麦菜",
+        "month_sales": 57,
+        "rating_count": 18,
+        "tips": "18评价 月售57份",
+        "image_path": "a371d92980de4cb8662a909558446fb7jpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖排骨大份+豆皮+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "招牌",
+            "icon_color": "ec9c68"
+          }
+        ],
+        "item_id": "329102384133",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖排骨大份+豆皮+米饭套餐",
+        "satisfy_count": 17,
+        "activity": null,
+        "satisfy_rate": 94,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377663385605",
+            "name": "黄焖排骨大份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724926485,
+            "pinyin_name": "huangmenpaigudafen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759085338,
+            "packing_fee": 2,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 42,
+            "sold_out": false,
+            "recent_popularity": 57,
+            "is_essential": false,
+            "item_id": "329102384133",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖排骨大份+豆皮+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9906
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖排骨大份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724926485,
+            "pinyin_name": "huangmenpaigudafen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 42,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329102384133",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213669
+      },
+      {
+        "rating": 4.2,
+        "is_featured": 0,
+        "virtual_food_id": 724913369,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenpaiguxiaofen+doupi+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "上等猪小排+优质长粒香米+豆皮+油麦菜",
+        "month_sales": 17,
+        "rating_count": 5,
+        "tips": "5评价 月售17份",
+        "image_path": "2d3c9da32a695246c1a2565bae388349jpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖排骨小份+豆皮+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [
+          {
+            "icon_name": "新",
+            "icon_color": "5ec452"
+          }
+        ],
+        "item_id": "329088953349",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖排骨小份+豆皮+米饭套餐",
+        "satisfy_count": 5,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677577221",
+            "name": "黄焖排骨小份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724913369,
+            "pinyin_name": "huangmenpaiguxiaofen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759099197,
+            "packing_fee": 2,
+            "recent_rating": 4.2,
+            "promotion_stock": -1,
+            "price": 40,
+            "sold_out": false,
+            "recent_popularity": 17,
+            "is_essential": false,
+            "item_id": "329088953349",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖排骨小份+豆皮+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9966
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖排骨小份+豆皮+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724913369,
+            "pinyin_name": "huangmenpaiguxiaofen+doupi+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 4.2,
+            "promotion_stock": -1,
+            "price": 40,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329088953349",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213669
+      },
+      {
+        "rating": 3.81,
+        "is_featured": 0,
+        "virtual_food_id": 724922597,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huangmenpaigudafen+yudoufu+mifantaocan",
+        "display_times": [],
+        "attrs": [
+          {
+            "values": [
+              "不辣",
+              "微辣",
+              "中辣",
+              "特辣"
+            ],
+            "name": "辣度"
+          }
+        ],
+        "description": "上等猪小排+优质长粒香米+鱼豆腐+油麦菜",
+        "month_sales": 47,
+        "rating_count": 16,
+        "tips": "16评价 月售47份",
+        "image_path": "2d3c9da32a695246c1a2565bae388349jpeg",
+        "specifications": [
+          {
+            "values": [
+              "黄焖排骨大份+鱼豆腐+米饭套餐",
+              "默认"
+            ],
+            "name": "规格"
+          }
+        ],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329098402821",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "黄焖排骨大份+鱼豆腐+米饭套餐",
+        "satisfy_count": 13,
+        "activity": null,
+        "satisfy_rate": 81,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377659420677",
+            "name": "黄焖排骨大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724922597,
+            "pinyin_name": "huangmenpaigudafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": 759081466,
+            "packing_fee": 2,
+            "recent_rating": 3.81,
+            "promotion_stock": -1,
+            "price": 42,
+            "sold_out": false,
+            "recent_popularity": 47,
+            "is_essential": false,
+            "item_id": "329098402821",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "黄焖排骨大份+鱼豆腐+米饭套餐"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 9925
+          },
+          {
+            "original_price": null,
+            "sku_id": "-10000",
+            "name": "黄焖排骨大份+鱼豆腐+米饭套餐",
+            "weight": 0,
+            "virtual_food_id": 724922597,
+            "pinyin_name": "huangmenpaigudafen+yudoufu+mifantaocan",
+            "restaurant_id": 161299380,
+            "food_id": -10000,
+            "packing_fee": 2,
+            "recent_rating": 3.81,
+            "promotion_stock": -1,
+            "price": 42,
+            "sold_out": false,
+            "recent_popularity": 0,
+            "is_essential": false,
+            "item_id": "329098402821",
+            "checkout_mode": 1,
+            "specs": [
+              {
+                "name": "规格",
+                "value": "默认"
+              }
+            ],
+            "partial_reduce_activity_id": null,
+            "stock": 0
+          }
+        ],
+        "category_id": 532213669
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532213669,
+    "is_activity": false
+  },
+  {
+    "description": "单价菜品",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "单加菜品",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.22,
+        "is_featured": 0,
+        "virtual_food_id": 724913626,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": " jinzhengu",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 279,
+        "rating_count": 45,
+        "tips": "45评价 月售279份",
+        "image_path": "ff134c245e1fe05a34bf1c7dd5220f2fjpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329089216517",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": " 金针菇",
+        "satisfy_count": 44,
+        "activity": null,
+        "satisfy_rate": 97,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677856773",
+            "name": " 金针菇",
+            "weight": 0,
+            "virtual_food_id": 724913626,
+            "pinyin_name": " jinzhengu",
+            "restaurant_id": 161299380,
+            "food_id": 759099470,
+            "packing_fee": 0,
+            "recent_rating": 4.22,
+            "promotion_stock": -1,
+            "price": 4,
+            "sold_out": false,
+            "recent_popularity": 279,
+            "is_essential": false,
+            "item_id": "329089216517",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9581
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.09,
+        "is_featured": 0,
+        "virtual_food_id": 724913633,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "yudoufu",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 381,
+        "rating_count": 64,
+        "tips": "64评价 月售381份",
+        "image_path": "74aa6f28200c22de86c30066a99ad313jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329089223685",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "鱼豆腐",
+        "satisfy_count": 62,
+        "activity": null,
+        "satisfy_rate": 96,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677865989",
+            "name": "鱼豆腐",
+            "weight": 0,
+            "virtual_food_id": 724913633,
+            "pinyin_name": "yudoufu",
+            "restaurant_id": 161299380,
+            "food_id": 759099479,
+            "packing_fee": 0,
+            "recent_rating": 4.09,
+            "promotion_stock": -1,
+            "price": 4,
+            "sold_out": false,
+            "recent_popularity": 381,
+            "is_essential": false,
+            "item_id": "329089223685",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9389
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.17,
+        "is_featured": 0,
+        "virtual_food_id": 724904662,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "tudou",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 400,
+        "rating_count": 76,
+        "tips": "76评价 月售400份",
+        "image_path": "b8488aa34396ca91bd45fa9bd40c1e65jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329080037381",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "土豆",
+        "satisfy_count": 74,
+        "activity": null,
+        "satisfy_rate": 97,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377667995653",
+            "name": "土豆",
+            "weight": 0,
+            "virtual_food_id": 724904662,
+            "pinyin_name": "tudou",
+            "restaurant_id": 161299380,
+            "food_id": 759089840,
+            "packing_fee": 0,
+            "recent_rating": 4.17,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 400,
+            "is_essential": false,
+            "item_id": "329080037381",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9388
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.11,
+        "is_featured": 0,
+        "virtual_food_id": 724926891,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "doupi",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 298,
+        "rating_count": 46,
+        "tips": "46评价 月售298份",
+        "image_path": "2744ba5bcd45b8b1e776454f60ea61e3jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329102799877",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "豆皮",
+        "satisfy_count": 46,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377663858693",
+            "name": "豆皮",
+            "weight": 0,
+            "virtual_food_id": 724926891,
+            "pinyin_name": "doupi",
+            "restaurant_id": 161299380,
+            "food_id": 759085800,
+            "packing_fee": 0,
+            "recent_rating": 4.11,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 298,
+            "is_essential": false,
+            "item_id": "329102799877",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9546
+          }
+        ],
+        "category_id": 532223426
+      },
+      {
+        "rating": 4.14,
+        "is_featured": 0,
+        "virtual_food_id": 724904674,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "xiaoyoucai",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 242,
+        "rating_count": 44,
+        "tips": "44评价 月售242份",
+        "image_path": "48b86a21dd1db28e3ad232998f251aa0jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329080049669",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "小油菜",
+        "satisfy_count": 42,
+        "activity": null,
+        "satisfy_rate": 95,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377668008965",
+            "name": "小油菜",
+            "weight": 0,
+            "virtual_food_id": 724904674,
+            "pinyin_name": "xiaoyoucai",
+            "restaurant_id": 161299380,
+            "food_id": 759089853,
+            "packing_fee": 0,
+            "recent_rating": 4.14,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 242,
+            "is_essential": false,
+            "item_id": "329080049669",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9609
+          }
+        ],
+        "category_id": 532223426
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532223426,
+    "is_activity": false
+  },
+  {
+    "description": "饮料",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "饮料",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.0,
+        "is_featured": 0,
+        "virtual_food_id": 724926905,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "kuangquanshui",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 49,
+        "rating_count": 5,
+        "tips": "5评价 月售49份",
+        "image_path": "89addb5e6d4a62d329b7657dad976927jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329102814213",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "矿泉水",
+        "satisfy_count": 5,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377663873029",
+            "name": "矿泉水",
+            "weight": 0,
+            "virtual_food_id": 724926905,
+            "pinyin_name": "kuangquanshui",
+            "restaurant_id": 161299380,
+            "food_id": 759085814,
+            "packing_fee": 0,
+            "recent_rating": 4.0,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 49,
+            "is_essential": false,
+            "item_id": "329102814213",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9916
+          }
+        ],
+        "category_id": 532223429
+      },
+      {
+        "rating": 4.33,
+        "is_featured": 0,
+        "virtual_food_id": 724913672,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "kekoukele",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 291,
+        "rating_count": 46,
+        "tips": "46评价 月售291份",
+        "image_path": "7c7c1e5a39ea31e73ed447ce4c0e9bc7jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329089263621",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "可口可乐",
+        "satisfy_count": 46,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677905925",
+            "name": "可口可乐",
+            "weight": 0,
+            "virtual_food_id": 724913672,
+            "pinyin_name": "kekoukele",
+            "restaurant_id": 161299380,
+            "food_id": 759099518,
+            "packing_fee": 0,
+            "recent_rating": 4.33,
+            "promotion_stock": -1,
+            "price": 4,
+            "sold_out": false,
+            "recent_popularity": 291,
+            "is_essential": false,
+            "item_id": "329089263621",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9545
+          }
+        ],
+        "category_id": 532223429
+      },
+      {
+        "rating": 4.25,
+        "is_featured": 0,
+        "virtual_food_id": 724913697,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "huierkangruanyinkouweisuijifafang",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 82,
+        "rating_count": 12,
+        "tips": "12评价 月售82份",
+        "image_path": "aee92192ecc3da2c6eea93f91ca7f0c1jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329089289221",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "惠尔康软饮口味随机发放",
+        "satisfy_count": 12,
+        "activity": null,
+        "satisfy_rate": 100,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377677934597",
+            "name": "惠尔康软饮口味随机发放",
+            "weight": 0,
+            "virtual_food_id": 724913697,
+            "pinyin_name": "huierkangruanyinkouweisuijifafang",
+            "restaurant_id": 161299380,
+            "food_id": 759099546,
+            "packing_fee": 0,
+            "recent_rating": 4.25,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 82,
+            "is_essential": false,
+            "item_id": "329089289221",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 9865
+          }
+        ],
+        "category_id": 532223429
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532223429,
+    "is_activity": false
+  },
+  {
+    "description": "米饭",
+    "is_selected": false,
+    "icon_url": "",
+    "name": "米饭不够在这里",
+    "grey_icon_url": "",
+    "foods": [
+      {
+        "rating": 4.16,
+        "is_featured": 0,
+        "virtual_food_id": 724904701,
+        "cold_box": null,
+        "restaurant_id": 161299380,
+        "pinyin_name": "mifan",
+        "display_times": [],
+        "attrs": [],
+        "description": "本品为配菜/凑单，单点不配送",
+        "month_sales": 887,
+        "rating_count": 151,
+        "tips": "151评价 月售887份",
+        "image_path": "d7e01eab0e94026ccac80e22e6c37702jpeg",
+        "specifications": [],
+        "server_utc": 1517791945,
+        "is_essential": false,
+        "attributes": [],
+        "item_id": "329080077317",
+        "min_purchase": 1,
+        "limitation": {},
+        "name": "米饭",
+        "satisfy_count": 148,
+        "activity": null,
+        "satisfy_rate": 98,
+        "specfoods": [
+          {
+            "original_price": null,
+            "sku_id": "377668039685",
+            "name": "米饭",
+            "weight": 0,
+            "virtual_food_id": 724904701,
+            "pinyin_name": "mifan",
+            "restaurant_id": 161299380,
+            "food_id": 759089883,
+            "packing_fee": 0,
+            "recent_rating": 4.16,
+            "promotion_stock": -1,
+            "price": 3,
+            "sold_out": false,
+            "recent_popularity": 887,
+            "is_essential": false,
+            "item_id": "329080077317",
+            "checkout_mode": 1,
+            "specs": [],
+            "partial_reduce_activity_id": null,
+            "stock": 8677
+          }
+        ],
+        "category_id": 532218525
+      }
+    ],
+    "activity": null,
+    "type": 1,
+    "id": 532218525,
+    "is_activity": false
+  }
+]
